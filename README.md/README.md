@@ -76,8 +76,6 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 ```
 
-![user admin](image6.png)
-
 ## 🎯 Usage Guide
 
 1️⃣ Browse available products  
